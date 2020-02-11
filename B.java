@@ -1,5 +1,6 @@
 public class B{
     protected int data;
+    
     public B(int data){
         this.data = data;
     }
